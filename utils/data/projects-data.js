@@ -41,7 +41,7 @@ export const projectsData = [
         description: 'video generation application utilizing Flutter, Python, and Flask. Achieved a 25% improvement in rendering speed and a 15% reduction in resource utilization, enhancing overall performance',
         tools: ['Flutter','Flask','Python'],
         code: 'https://github.com/aayushbaluni/TextToVideo',
-        demo: 'NOT UPLOADED ON PLAY STORE',
+        demo: null,
         image: ayla,
         role: 'Full Stack Developer',
     }
